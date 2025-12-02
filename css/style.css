@@ -1563,9 +1563,10 @@ span.wpcf7-not-valid-tip {
 }
 
 .title2 {
-  font: 56px/60px Roboto Condensed;
+  font: 31px/40px Roboto Condensed;
   margin: 0 0 13px 0;
   letter-spacing: -1px;
+  width: 105%;
 }
 
 .title3 {
